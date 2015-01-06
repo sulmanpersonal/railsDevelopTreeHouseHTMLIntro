@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c34f1f1-d2fa-43c9-a625-0a742d77d8be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anotherPage/another_page.html" />
+    <list default="true" id="4c34f1f1-d2fa-43c9-a625-0a742d77d8be" name="Default" comment="Fourth chapter: Links">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flowers.jpeg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -29,20 +29,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="391">
-              <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+            <state vertical-scroll-proportion="0.09357798" vertical-offset="0" max-vertical-offset="545">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="another_page.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="another_page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/anotherPage/another_page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3046595" vertical-offset="0" max-vertical-offset="558">
+            <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="306">
               <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
               <folding />
             </state>
@@ -77,8 +77,8 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/another_page.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/anotherPage/another_page.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -214,7 +214,13 @@
       <option name="project" value="LOCAL" />
       <updated>1420498866075</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fourth chapter: Links">
+      <created>1420502599208</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1420502599208</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -261,7 +267,8 @@
     <MESSAGE value="first chapter: Introduction" />
     <MESSAGE value="second chapter: Text" />
     <MESSAGE value="third chapter: Lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="third chapter: Lists" />
+    <MESSAGE value="Fourth chapter: Links" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fourth chapter: Links" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -279,18 +286,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/anotherPage/another_page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="391">
-          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="306">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/anotherPage/another_page.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3046595" vertical-offset="0" max-vertical-offset="558">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.09357798" vertical-offset="0" max-vertical-offset="545">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           <folding />
         </state>
       </provider>
